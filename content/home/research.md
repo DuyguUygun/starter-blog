@@ -1,9 +1,9 @@
 ---
 widget: Pages
-widget_id: research
+widget_id: Research
 headless: true
 weight: 10
-title: Research
+title: ""
 active: true
 design:
   columns: "2"
