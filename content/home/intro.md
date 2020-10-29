@@ -4,7 +4,8 @@ widget_id: homepage blog
 headless: true
 weight: 10
 title: Extended Scientific Virtue
-subtitle: For [Academic Website Builder](https://sourcethemes.com/academic/)
+subtitle: "A blog on all things related to epistemic virtues in the context of
+  scientific inquiry "
 active: true
 design:
   background:
