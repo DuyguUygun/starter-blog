@@ -1,6 +1,7 @@
 ---
-title: Trust and criticism in science
-subtitle: "Part I: Critical rationalism instead of organized skepticism"
+title: "Trust and criticism in science, Part I: Critical rationalism instead of
+  organized skepticism"
+subtitle: ""
 date: 2020-10-29T16:22:19.631Z
 draft: false
 featured: false
